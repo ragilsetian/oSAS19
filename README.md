@@ -1,1 +1,1 @@
-# oSAS19
+# openSUSE Asia Summit 2019
